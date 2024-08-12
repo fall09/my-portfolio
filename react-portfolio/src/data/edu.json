@@ -1,0 +1,27 @@
+{
+    "education": [
+      {
+        "school": "Isik University",
+        "degree": "Bachelor of Science in Computer Engineering",
+        "startDate": "September 2021",
+        "endDate": "Expected June 2025",
+        "details": [
+          "Specialized in software development and data structures",
+          "Completed coursework in algorithms, database management, and web development",
+          "Member of the Computer Science Club"
+        ]
+      },
+      {
+        "school": "Y High School",
+        "degree": "High School Diploma",
+        "startDate": "September 2016",
+        "endDate": "June 2020",
+        "details": [
+          "Graduated with honors",
+          "Active participant in the Robotics Club",
+          "Volunteered as a tutor in mathematics"
+        ]
+      }
+    ]
+  }
+  

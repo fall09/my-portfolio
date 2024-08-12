@@ -1,0 +1,34 @@
+[
+    {
+      "role": "Passo Technologies Intern ",
+      "organisation": "Aktiftech",
+      "startDate": "Nov, 2023",
+      "endDate": "Present",
+      "experiences": ["Worked as part of the backend team at Passo Technologies headquarters","Developed solutions for bug fixing tasks"],
+      "imageSrc": "history/aktiftech.png"
+    },
+    {
+      "role": "Freelance Software Developer",
+      "organisation": "Hissefy",
+      "startDate": "July, 2024",
+      "endDate": "Present",
+      "experiences": [
+        "Participated in the development of a stock market project, contributing to both frontend and backend also testing."
+      ],
+      "imageSrc": ""
+    },
+  
+    {
+      "role": "Student Intern",
+      "organisation": "Vakıfbank",
+      "startDate": "July, 2023",
+      "endDate": "August, 2023",
+      "experiences": [
+        "Developed a short-term bank project as part of a collaborative team",
+        "Gained experience in DevOps practices and tools",
+        "Learned and applied Agile methodologies in a team environment"
+      ],
+      "imageSrc": "history/vakifbank.png"
+    }
+    
+  ]
