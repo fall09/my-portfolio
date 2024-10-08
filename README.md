@@ -53,8 +53,8 @@ Your browser should open to `http://localhost:5174`, displaying your portfolio s
 
 Feel free to reach out for collaborations, job opportunities, or just to connect! You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [GitHub](https://github.com/your-username)
-- Email: your-email@example.com
+- [LinkedIn](https://www.linkedin.com/in/t%C3%BClin-eyl%C3%BCl-erdo%C4%9Fan-b1615b242/)
+- [GitHub](https://github.com/fall09)
+- Email: tulineylulerdogan@gmail.com
 
 Thank you for visiting my portfolio!
