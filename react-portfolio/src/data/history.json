@@ -7,16 +7,7 @@
       "experiences": ["Worked as part of the backend team at Passo Technologies headquarters","Developed solutions for bug fixing tasks"],
       "imageSrc": "history/aktiftech.png"
     },
-    {
-      "role": "Freelance Software Developer",
-      "organisation": "Hissefy",
-      "startDate": "July, 2024",
-      "endDate": "Present",
-      "experiences": [
-        "Participated in the development of a stock market project, contributing to both frontend and backend also testing."
-      ],
-      "imageSrc": ""
-    },
+ 
   
     {
       "role": "Student Intern",
