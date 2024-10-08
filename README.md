@@ -5,7 +5,7 @@ Welcome to my portfolio! This website showcases my projects, skills, and experie
 ## Table of Contents
 
 - [About Me](#about-me)
-- [Experiences](#experiences)
+- [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Contact](#contact)
 
